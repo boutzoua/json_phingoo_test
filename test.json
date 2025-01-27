@@ -1,0 +1,1661 @@
+[
+{
+"side":"right",
+"start":"00:00:02.300",
+"end":"00:00:02.810", 
+"text":"Allô?", 
+"confidence": 0
+},
+{
+"side":"right",
+"start":"00:00:02.851",
+"end":"00:00:03.339", 
+"text":"Oui, bonjour.", 
+"confidence": 0.704
+},
+{
+"side":"left",
+"start":"00:00:04.845",
+"end":"00:00:05.398", 
+"text":"Oui, bonjour.", 
+"confidence": 0.609
+},
+{
+"side":"right",
+"start":"00:00:06.409",
+"end":"00:00:06.920", 
+"text":"Oui, ravi, Monsieur.", 
+"confidence": 0.208
+},
+{
+"side":"right",
+"start":"00:00:07.100",
+"end":"00:00:10.040", 
+"text":"C'est Madame Bastrand, la conseillère du cabinet des mutuelles.", 
+"confidence": 0.298
+},
+{
+"side":"right",
+"start":"00:00:10.681",
+"end":"00:00:15.100", 
+"text":"Et je vous appelle aujourd'hui suite aux dernières modifications en matière de surhausses maladies.", 
+"confidence": 0.662
+},
+{
+"side":"right",
+"start":"00:00:16.480",
+"end":"00:00:18.679", 
+"text":"Alors, naturellement, vous avez une mutuelle, Monsieur, n'est-ce pas?", 
+"confidence": 0.273
+},
+{
+"side":"left",
+"start":"00:00:20.268",
+"end":"00:00:20.332", 
+"text":"Oui.", 
+"confidence": 0.121
+},
+{
+"side":"right",
+"start":"00:00:21.500",
+"end":"00:00:23.019", 
+"text":"D'accord, c'est une mutuelle du travail.", 
+"confidence": 0.462
+},
+{
+"side":"right",
+"start":"00:00:23.300",
+"end":"00:00:24.978", 
+"text":"Eh bien, elle est individuelle, si vous le permettez.", 
+"confidence": 0.268
+},
+{
+"side":"left",
+"start":"00:00:25.921",
+"end":"00:00:26.258", 
+"text":"Individuelle.", 
+"confidence": 0.081
+},
+{
+"side":"right",
+"start":"00:00:27.288",
+"end":"00:00:27.660", 
+"text":"Très, très bien.", 
+"confidence": 0.172
+},
+{
+"side":"right",
+"start":"00:00:28.103",
+"end":"00:00:31.183", 
+"text":"Alors, pour vous expliquer, en fait, aujourd'hui, on est le cabinet 5 à 7.", 
+"confidence": 0.671
+},
+{
+"side":"right",
+"start":"00:00:31.183",
+"end":"00:00:32.339", 
+"text":"On est les comparateurs aux mutuelles.", 
+"confidence": 0.318
+},
+{
+"side":"right",
+"start":"00:00:32.961",
+"end":"00:00:47.239", 
+"text":"Et on vous propose un dossier comparatif qui vous permet d'évaluer votre mutuelle pour savoir déjà si vous êtes bien placé, si vous payez cher ou non, et si on pourrait, de l'autre côté, vous proposer quelque chose de mieux, que ce soit au niveau de la cotisation ou, bien évidemment, des garanties.", 
+"confidence": 0.68
+},
+{
+"side":"right",
+"start":"00:00:47.900",
+"end":"00:00:51.300", 
+"text":"Alors, dites-moi, Monsieur, vous êtes auprès de quelle mutuelle actuellement, si je peux me permettre?", 
+"confidence": 0.235
+},
+{
+"side":"left",
+"start":"00:00:52.161",
+"end":"00:00:55.640", 
+"text":"Euh, oh là là, j'ai oublié comment ça s'appelle même.", 
+"confidence": 0.729
+},
+{
+"side":"left",
+"start":"00:00:56.102",
+"end":"00:00:56.993", 
+"text":"Attendez, deux secondes.", 
+"confidence": 0.581
+},
+{
+"side":"left",
+"start":"00:00:58.900",
+"end":"00:01:00.840", 
+"text":"Je vais regarder si ma boîte m'arrive.", 
+"confidence": 0.65
+},
+{
+"side":"right",
+"start":"00:01:01.880",
+"end":"00:01:02.193", 
+"text":"Elle est où?", 
+"confidence": 0.018
+},
+{
+"side":"left",
+"start":"00:01:03.180",
+"end":"00:01:04.379", 
+"text":"Je suis au téléphone maintenant.", 
+"confidence": 0.724
+},
+{
+"side":"right",
+"start":"00:01:08.444",
+"end":"00:01:09.340", 
+"text":"Oui, prenez votre temps.", 
+"confidence": 0.499
+},
+{
+"side":"right",
+"start":"00:01:11.463",
+"end":"00:01:13.420", 
+"text":"Et si vous permettez, vous êtes né en quelle année, Monsieur?", 
+"confidence": 0.806
+},
+{
+"side":"right",
+"start":"00:01:13.420",
+"end":"00:01:17.503", 
+"text":"1985, d'accord.", 
+"confidence": 0
+},
+{
+"side":"right",
+"start":"00:01:19.040",
+"end":"00:01:22.420", 
+"text":"Alors, vous êtes seul sur le contrat de mutuelle, il y a d'autres membres de la famille avec vous?", 
+"confidence": 0.301
+},
+{
+"side":"left",
+"start":"00:01:23.380",
+"end":"00:01:28.340", 
+"text":"Je suis seul, mais par contre, je veux bien quand même des infos pour une deuxième personne.", 
+"confidence": 0.46
+},
+{
+"side":"left",
+"start":"00:01:29.161",
+"end":"00:01:35.080", 
+"text":"Comment ça se passe, c'est que j'attends un enfant qui vient d'être normalement début de l'année prochaine.", 
+"confidence": 0.656
+},
+{
+"side":"right",
+"start":"00:01:35.760",
+"end":"00:01:36.132", 
+"text":"D'accord.", 
+"confidence": 0.516
+},
+{
+"side":"left",
+"start":"00:01:36.821",
+"end":"00:01:40.700", 
+"text":"Mais il ne vit pas ici, il ne vit pas en France.", 
+"confidence": 0.577
+},
+{
+"side":"left",
+"start":"00:01:41.700",
+"end":"00:01:50.594", 
+"text":"Mais je me demandais si je prends une mutuelle, je comptais appeler ma mutuelle pour en parler d'ailleurs, si je dois prendre une mutuelle pour quand il vient en France.", 
+"confidence": 0.441
+},
+{
+"side":"right",
+"start":"00:01:52.520",
+"end":"00:01:52.947", 
+"text":"Oui, chez vous, d'accord.", 
+"confidence": 0.038
+},
+{
+"side":"left",
+"start":"00:01:54.082",
+"end":"00:01:55.576", 
+"text":"Je ne sais pas comment ça se passe.", 
+"confidence": 0.262
+},
+{
+"side":"left",
+"start":"00:01:56.400",
+"end":"00:01:59.279", 
+"text":"Je ne sais pas si la mutuelle de sa mère prend en considération.", 
+"confidence": 0.172
+},
+{
+"side":"right",
+"start":"00:02:00.880",
+"end":"00:02:01.090", 
+"text":"D'accord.", 
+"confidence": 0.121
+},
+{
+"side":"right",
+"start":"00:02:02.620",
+"end":"00:02:03.418", 
+"text":"D'accord.", 
+"confidence": 0.469
+},
+{
+"side":"right",
+"start":"00:02:03.901",
+"end":"00:02:04.854", 
+"text":"Et à quel âge?", 
+"confidence": 0.564
+},
+{
+"side":"right",
+"start":"00:02:04.894",
+"end":"00:02:05.320", 
+"text":"votre enfant?", 
+"confidence": 0.416
+},
+{
+"side":"left",
+"start":"00:02:06.887",
+"end":"00:02:07.539", 
+"text":"Il n'est pas encore né.", 
+"confidence": 0.944
+},
+{
+"side":"right",
+"start":"00:02:08.920",
+"end":"00:02:09.232", 
+"text":"Ah, d'accord.", 
+"confidence": 0.057
+},
+{
+"side":"right",
+"start":"00:02:10.580",
+"end":"00:02:10.622", 
+"text":"Ok.", 
+"confidence": 0.034
+},
+{
+"side":"right",
+"start":"00:02:11.020",
+"end":"00:02:11.224", 
+"text":"Ah, d'accord.", 
+"confidence": 0.022
+},
+{
+"side":"right",
+"start":"00:02:13.223",
+"end":"00:02:14.814", 
+"text":"Donc, on va mettre, voilà, 2025, on va dire.", 
+"confidence": 0.622
+},
+{
+"side":"right",
+"start":"00:02:16.701",
+"end":"00:02:18.919", 
+"text":"Il est encore dans le ventre de sa maman.", 
+"confidence": 0.174
+},
+{
+"side":"right",
+"start":"00:02:20.020",
+"end":"00:02:20.206", 
+"text":"D'accord.", 
+"confidence": 0.068
+},
+{
+"side":"right",
+"start":"00:02:21.722",
+"end":"00:02:25.819", 
+"text":"Alors, sinon, actuellement, vous êtes en train de payer combien, monsieur, pour vous seulement?", 
+"confidence": 0.606
+},
+{
+"side":"left",
+"start":"00:02:27.605",
+"end":"00:02:28.755", 
+"text":"Je paye à peu près 50 euros.", 
+"confidence": 0.494
+},
+{
+"side":"right",
+"start":"00:02:28.755",
+"end":"00:02:30.303", 
+"text":"50 euros.", 
+"confidence": 0
+},
+{
+"side":"right",
+"start":"00:02:31.180",
+"end":"00:02:31.625", 
+"text":"D'accord.", 
+"confidence": 0.28
+},
+{
+"side":"right",
+"start":"00:02:31.645",
+"end":"00:02:32.919", 
+"text":"Pour une formule complète?", 
+"confidence": 0.794
+},
+{
+"side":"left",
+"start":"00:02:34.045",
+"end":"00:02:35.860", 
+"text":"Oui, ça rembourse tout.", 
+"confidence": 0.768
+},
+{
+"side":"right",
+"start":"00:02:37.140",
+"end":"00:02:37.573", 
+"text":"D'accord.", 
+"confidence": 0.388
+},
+{
+"side":"right",
+"start":"00:02:37.820",
+"end":"00:02:38.105", 
+"text":"D'accord.", 
+"confidence": 0.301
+},
+{
+"side":"right",
+"start":"00:02:39.601",
+"end":"00:02:43.880", 
+"text":"Sinon, vous êtes, oui, sinon, excusez-moi, vous êtes sur quel code postal?", 
+"confidence": 0.593
+},
+{
+"side":"right",
+"start":"00:02:48.220",
+"end":"00:02:48.905", 
+"text":"Alors, 59 800, c'est ça?", 
+"confidence": 0.291
+},
+{
+"side":"left",
+"start":"00:02:51.784",
+"end":"00:02:52.113", 
+"text":"Oui, c'est ça.", 
+"confidence": 0.167
+},
+{
+"side":"right",
+"start":"00:02:53.140",
+"end":"00:02:54.189", 
+"text":"D'accord.", 
+"confidence": 0.615
+},
+{
+"side":"right",
+"start":"00:02:54.229",
+"end":"00:02:55.480", 
+"text":"Alors, un enfant à Lille.", 
+"confidence": 0.575
+},
+{
+"side":"left",
+"start":"00:02:56.892",
+"end":"00:02:57.138", 
+"text":"C'est ça.", 
+"confidence": 0.133
+},
+{
+"side":"right",
+"start":"00:02:57.960",
+"end":"00:02:58.309", 
+"text":"D'accord.", 
+"confidence": 0.388
+},
+{
+"side":"right",
+"start":"00:02:59.721",
+"end":"00:03:04.600", 
+"text":"Alors, on a dit que vous êtes né en 1985.", 
+"confidence": 0.885
+},
+{
+"side":"right",
+"start":"00:03:04.600",
+"end":"00:03:08.880", 
+"text":"Sinon, dites-moi, vous êtes rattaché au régime général de la sécurité sociale ou il y a un autre régime?", 
+"confidence": 0.411
+},
+{
+"side":"left",
+"start":"00:03:11.183",
+"end":"00:03:11.952", 
+"text":"C'est quoi la différence?", 
+"confidence": 0.6
+},
+{
+"side":"right",
+"start":"00:03:13.881",
+"end":"00:03:17.560", 
+"text":"En fait, il y a le régime général de la sécurité sociale.", 
+"confidence": 0.44
+},
+{
+"side":"right",
+"start":"00:03:17.880",
+"end":"00:03:20.059", 
+"text":"Il y a, en fait, le régime Alsace-Moselle, voilà.", 
+"confidence": 0.222
+},
+{
+"side":"right",
+"start":"00:03:20.420",
+"end":"00:03:24.540", 
+"text":"Il y a, pour les TRF, pour, en fait, les personnes qui travaillent à leur compte.", 
+"confidence": 0.348
+},
+{
+"side":"right",
+"start":"00:03:25.160",
+"end":"00:03:25.980", 
+"text":"Donc, pour vous, on veut clarifier.", 
+"confidence": 0.097
+},
+{
+"side":"left",
+"start":"00:03:26.040",
+"end":"00:03:27.999", 
+"text":"Ah, oui, non, non, non, c'est un truc normal.", 
+"confidence": 0.808
+},
+{
+"side":"right",
+"start":"00:03:29.044",
+"end":"00:03:30.620", 
+"text":"D'accord, voilà, le régime général.", 
+"confidence": 0.392
+},
+{
+"side":"right",
+"start":"00:03:30.940",
+"end":"00:03:32.899", 
+"text":"Alors, dans ce cas-là, c'est, voilà, le régime général.", 
+"confidence": 0.162
+},
+{
+"side":"right",
+"start":"00:03:34.441",
+"end":"00:03:40.120", 
+"text":"Alors, sinon, dites-moi, monsieur, est-ce que vous avez une idée sur le niveau de garantie que vous avez avec votre habituel?", 
+"confidence": 0.188
+},
+{
+"side":"right",
+"start":"00:03:40.800",
+"end":"00:03:42.799", 
+"text":"Est-ce qu'il s'agit d'un niveau basique, moyen?", 
+"confidence": 0.246
+},
+{
+"side":"left",
+"start":"00:03:43.420",
+"end":"00:03:45.880", 
+"text":"Attendez, déjà, je suis déjà en train de rechercher le nom d'un habituel.", 
+"confidence": 0.421
+},
+{
+"side":"left",
+"start":"00:03:46.041",
+"end":"00:03:47.499", 
+"text":"Ah, oui, voilà, Aizio, je viens de voir le nom.", 
+"confidence": 0.356
+},
+{
+"side":"right",
+"start":"00:03:48.005",
+"end":"00:03:48.197", 
+"text":"Aizio.", 
+"confidence": 0.262
+},
+{
+"side":"left",
+"start":"00:03:48.380",
+"end":"00:03:48.989", 
+"text":"Oui, je la connais.", 
+"confidence": 0.009
+},
+{
+"side":"right",
+"start":"00:03:50.840",
+"end":"00:03:53.578", 
+"text":"Oui, on travaille avec, déjà, on travaille avec l'Aizio.", 
+"confidence": 0.547
+},
+{
+"side":"right",
+"start":"00:03:54.726",
+"end":"00:03:54.960", 
+"text":"D'accord.", 
+"confidence": 0.221
+},
+{
+"side":"right",
+"start":"00:03:55.181",
+"end":"00:03:58.800", 
+"text":"Et vous êtes, en fait, sur quel niveau de garantie avec Aizio?", 
+"confidence": 0.149
+},
+{
+"side":"right",
+"start":"00:03:59.300",
+"end":"00:04:01.700", 
+"text":"Est-ce qu'il s'agit de niveau 1, 2, 3?", 
+"confidence": 0.724
+},
+{
+"side":"right",
+"start":"00:04:01.700",
+"end":"00:04:05.960", 
+"text":"Je pense que c'est en train d'être le niveau 1.", 
+"confidence": 0.388
+},
+{
+"side":"left",
+"start":"00:04:05.960",
+"end":"00:04:06.840", 
+"text":"Je ne sais pas.", 
+"confidence": 0.778
+},
+{
+"side":"left",
+"start":"00:04:07.320",
+"end":"00:04:18.519", 
+"text":"Je sais juste que je paye un peu plus cher, que j'aurais pu payer moins, mais je paye un peu plus cher et c'est pour ça que ça couvre tous les remboursements de tous mes médicaments.", 
+"confidence": 0.781
+},
+{
+"side":"left",
+"start":"00:04:19.579",
+"end":"00:04:20.375", 
+"text":"C'est ce que je fais après.", 
+"confidence": 0.052
+},
+{
+"side":"right",
+"start":"00:04:20.800",
+"end":"00:04:20.991", 
+"text":"D'accord.", 
+"confidence": 0.102
+},
+{
+"side":"left",
+"start":"00:04:22.580",
+"end":"00:04:27.720", 
+"text":"Honnêtement, vous savez, les trucs mutuels et tout, c'est tellement compliqué.", 
+"confidence": 0.714
+},
+{
+"side":"left",
+"start":"00:04:28.040",
+"end":"00:04:28.935", 
+"text":"Moi, j'ai du mal à comprendre.", 
+"confidence": 0.074
+},
+{
+"side":"left",
+"start":"00:04:29.740",
+"end":"00:04:30.208", 
+"text":"C'est vraiment compliqué.", 
+"confidence": 0.176
+},
+{
+"side":"left",
+"start":"00:04:31.400",
+"end":"00:04:35.579", 
+"text":"Donc, je leur ai juste demandé que je n'ai rien à payer, que je rembourse tout.", 
+"confidence": 0.345
+},
+{
+"side":"left",
+"start":"00:04:35.880",
+"end":"00:04:38.640", 
+"text":"Et ils m'ont proposé un prix que je n'ai pas discuté.", 
+"confidence": 0.36
+},
+{
+"side":"right",
+"start":"00:04:39.380",
+"end":"00:04:39.773", 
+"text":"D'accord.", 
+"confidence": 0.262
+},
+{
+"side":"right",
+"start":"00:04:40.561",
+"end":"00:04:46.300", 
+"text":"Et pour les médicaments que vous prenez, en fait, sont-ce des médicaments déjà remboursés par la Sécurité Sociale, évidemment?", 
+"confidence": 0.798
+},
+{
+"side":"left",
+"start":"00:04:48.654",
+"end":"00:04:48.738", 
+"text":"Non.", 
+"confidence": 0.884
+},
+{
+"side":"left",
+"start":"00:04:51.041",
+"end":"00:04:52.939", 
+"text":"Alors, il n'y en a, ce n'est pas remboursé.", 
+"confidence": 0.318
+},
+{
+"side":"left",
+"start":"00:04:55.223",
+"end":"00:04:57.159", 
+"text":"Mais ce n'est pas, je ne crois pas que ce soit très cher.", 
+"confidence": 0.386
+},
+{
+"side":"left",
+"start":"00:04:59.863",
+"end":"00:05:03.600", 
+"text":"Il y en a qui sont remboursés, mais il y en a qui ne sont pas remboursés.", 
+"confidence": 0.478
+},
+{
+"side":"right",
+"start":"00:05:03.700",
+"end":"00:05:03.980", 
+"text":"D'accord.", 
+"confidence": 0.177
+},
+{
+"side":"right",
+"start":"00:05:05.789",
+"end":"00:05:06.318", 
+"text":"Je note ça.", 
+"confidence": 0.653
+},
+{
+"side":"right",
+"start":"00:05:06.982",
+"end":"00:05:07.700", 
+"text":"Très, très bien.", 
+"confidence": 0.428
+},
+{
+"side":"right",
+"start":"00:05:10.044",
+"end":"00:05:10.620", 
+"text":"Excusez-moi, oui?", 
+"confidence": 0.505
+},
+{
+"side":"left",
+"start":"00:05:11.561",
+"end":"00:05:12.239", 
+"text":"Non, non, c'est bon.", 
+"confidence": 0.421
+},
+{
+"side":"right",
+"start":"00:05:13.341",
+"end":"00:05:19.198", 
+"text":"Alors, j'allais vous poser la question par rapport à vos besoins de santé pour l'année prochaine, pour 2025, juste avant.", 
+"confidence": 0.81
+},
+{
+"side":"right",
+"start":"00:05:20.521",
+"end":"00:05:22.199", 
+"text":"Donc, déjà, vous portez des lunettes?", 
+"confidence": 0.593
+},
+{
+"side":"left",
+"start":"00:05:26.380",
+"end":"00:05:33.420", 
+"text":"Alors, normalement, je pourrais en porter, mais je ne porte pas vraiment, parce qu'on m'a prescrit une année des lunettes, en fait.", 
+"confidence": 0.488
+},
+{
+"side":"left",
+"start":"00:05:34.081",
+"end":"00:05:38.060", 
+"text":"J'ai porté pendant un moment, et puis depuis, je n'en ai plus trop besoin.", 
+"confidence": 0.454
+},
+{
+"side":"left",
+"start":"00:05:39.480",
+"end":"00:05:41.999", 
+"text":"Donc, je n'ai pas eu à reporter, en fait.", 
+"confidence": 0.201
+},
+{
+"side":"right",
+"start":"00:05:42.940",
+"end":"00:05:43.783", 
+"text":"D'accord.", 
+"confidence": 0.623
+},
+{
+"side":"right",
+"start":"00:05:43.803",
+"end":"00:05:48.980", 
+"text":"Donc, même l'année prochaine, vous ne comptez pas vraiment porter des lunettes pour l'instant, on va dire?", 
+"confidence": 0.238
+},
+{
+"side":"left",
+"start":"00:05:49.000",
+"end":"00:05:49.899", 
+"text":"Non, je ne pense pas.", 
+"confidence": 0.315
+},
+{
+"side":"right",
+"start":"00:05:49.940",
+"end":"00:05:50.930", 
+"text":"D'accord, ok.", 
+"confidence": 0.477
+},
+{
+"side":"right",
+"start":"00:05:52.380",
+"end":"00:05:57.119", 
+"text":"Sinon, pour le dentaire, vous envisagez faire de gros soins dentaires, ou bien, ce sera juste des soins classiques, hein?", 
+"confidence": 0.523
+},
+{
+"side":"right",
+"start":"00:05:57.780",
+"end":"00:06:00.160", 
+"text":"Baptisme, délirage, flambage, traitement de caries?", 
+"confidence": 0.397
+},
+{
+"side":"left",
+"start":"00:06:03.241",
+"end":"00:06:13.675", 
+"text":"Là, par exemple, je suis allé quand même plusieurs fois, ces deux dernières années chez des dentistes, alors que j'ai fait des examens, je ne suis pas allé, mais ces deux dernières années, je suis allé au moins 4 ou 5 fois.", 
+"confidence": 0.815
+},
+{
+"side":"left",
+"start":"00:06:15.002",
+"end":"00:06:15.065", 
+"text":"Oui.", 
+"confidence": 0.005
+},
+{
+"side":"left",
+"start":"00:06:16.501",
+"end":"00:06:26.640", 
+"text":"Dans le problème de dents, j'ai même une fois, j'ai eu une opération pour m'enlever une dent de sagesse, une chirurgie, quoi.", 
+"confidence": 0.744
+},
+{
+"side":"right",
+"start":"00:06:27.534",
+"end":"00:06:27.598", 
+"text":"Oui.", 
+"confidence": 0.046
+},
+{
+"side":"left",
+"start":"00:06:29.702",
+"end":"00:06:31.679", 
+"text":"Voilà, mais c'était souvent pour des caries, quoi.", 
+"confidence": 0.86
+},
+{
+"side":"right",
+"start":"00:06:32.863",
+"end":"00:06:35.539", 
+"text":"D'accord, voilà, juste pour les traitements de caries, ok.", 
+"confidence": 0.641
+},
+{
+"side":"right",
+"start":"00:06:36.122",
+"end":"00:06:38.300", 
+"text":"Oui, je vois très bien.", 
+"confidence": 0.615
+},
+{
+"side":"right",
+"start":"00:06:39.022",
+"end":"00:06:42.340", 
+"text":"Alors, donc, ce sera juste, voilà, des soins classiques, on va dire.", 
+"confidence": 0.949
+},
+{
+"side":"right",
+"start":"00:06:42.400",
+"end":"00:06:54.340", 
+"text":"D'accord, alors, sinon pour, en fait, le dépassement de l'horaire pour les médecins généralistes et les spécialistes, hein, est-ce que déjà, vous consultez fréquemment des spécialistes qui pratiquent un dépassement de l'horaire, ou bien non?", 
+"confidence": 0.117
+},
+{
+"side":"left",
+"start":"00:06:56.581",
+"end":"00:07:13.000", 
+"text":"Alors, je n'ai jamais eu à payer, la chaque fois que je vais, je n'ai pas à payer, j'ai eu une fois, le médecin m'avait dit, c'était quelque chose comme 3 euros, j'avais dû avancer, je ne sais plus si c'est parce que je n'avais pas ma carte, mais la plupart du temps, je n'ai rien à payer, en fait, quand je vais voir les médecins.", 
+"confidence": 0.462
+},
+{
+"side":"right",
+"start":"00:07:14.102",
+"end":"00:07:16.359", 
+"text":"D'accord, d'accord, donc, vous êtes tranquille dans ce cas-là.", 
+"confidence": 0.732
+},
+{
+"side":"right",
+"start":"00:07:17.122",
+"end":"00:07:17.635", 
+"text":"Très, très bien.", 
+"confidence": 0.368
+},
+{
+"side":"right",
+"start":"00:07:19.661",
+"end":"00:07:31.660", 
+"text":"Alors, sinon, pour la médecine douce, tout ce qui est, on va dire, aussi, opacité, des cures, voilà, tout ça, en fait, acupuncture, la médecine naturelle, est-ce que vous pratiquez ça ou pas?", 
+"confidence": 0.332
+},
+{
+"side":"left",
+"start":"00:07:32.741",
+"end":"00:07:33.897", 
+"text":"Non, non, non.", 
+"confidence": 0.384
+},
+{
+"side":"right",
+"start":"00:07:34.080",
+"end":"00:07:36.559", 
+"text":"D'accord, bon, voilà, vous êtes tranquille.", 
+"confidence": 0.395
+},
+{
+"side":"right",
+"start":"00:07:37.341",
+"end":"00:07:41.540", 
+"text":"Alors, donc, je vois très bien son éclair, donc, pour la médecine douce, non.", 
+"confidence": 0.623
+},
+{
+"side":"right",
+"start":"00:07:42.981",
+"end":"00:07:47.580", 
+"text":"Alors, sinon, est-ce que vous avez d'autres besoins qu'on n'a pas vu ensemble et que vous aimeriez bien lui signaler?", 
+"confidence": 0.444
+},
+{
+"side":"left",
+"start":"00:07:50.521",
+"end":"00:08:06.997", 
+"text":"Ben, comme je disais, moi, actuellement, c'est déjà que tous mes coûts soient remboursés, et voilà, que je n'ai pas, voilà, si j'ai une opération, si j'ai une opération, voilà, que je fais cette prise en charge, quoi, mais, voilà.", 
+"confidence": 0.302
+},
+{
+"side":"left",
+"start":"00:08:08.860",
+"end":"00:08:14.339", 
+"text":"Après, je ne sais pas trop quels sont mes besoins, je ne sais pas, de manière générale, ça va, quoi.", 
+"confidence": 0.52
+},
+{
+"side":"right",
+"start":"00:08:15.680",
+"end":"00:08:17.951", 
+"text":"D'accord, d'accord, j'ai bien noté.", 
+"confidence": 0.496
+},
+{
+"side":"left",
+"start":"00:08:20.160",
+"end":"00:08:27.799", 
+"text":"Comme je vous disais, pour avoir une idée un petit peu des tarifs, si on rajoute un enfant, voilà.", 
+"confidence": 0.423
+},
+{
+"side":"right",
+"start":"00:08:28.300",
+"end":"00:08:30.220", 
+"text":"Oui, voilà, lorsque vous allez ajouter votre enfant.", 
+"confidence": 0.002
+},
+{
+"side":"right",
+"start":"00:08:30.680",
+"end":"00:08:34.620", 
+"text":"Alors, moi, en tout cas, je vous ai tarifé, d'accord, un enfant, s'il vous plaît, gardez-les tout le temps.", 
+"confidence": 0.234
+},
+{
+"side":"right",
+"start":"00:08:34.900",
+"end":"00:08:40.840", 
+"text":"Je vais voir, lorsqu'on va ajouter votre enfant, l'année prochaine, qu'est-ce que je peux vous proposer.", 
+"confidence": 0.36
+},
+{
+"side":"right",
+"start":"00:08:41.500",
+"end":"00:08:53.220", 
+"text":"Alors, sinon, dites-moi, messieurs, en fait, par rapport à l'hospitalisation, d'accord, excusez-moi déjà de vous avoir posé cette question, mais est-ce qu'il y a une hospitalisation prévue pour vous l'année prochaine ?", 
+"confidence": 0.328
+},
+{
+"side":"right",
+"start":"00:08:53.220",
+"end":"00:08:54.579", 
+"text":"Eh bien, non, tout se passe bien jusqu'à l'instant.", 
+"confidence": 0.13
+},
+{
+"side":"left",
+"start":"00:08:56.282",
+"end":"00:08:58.500", 
+"text":"Pour l'instant, non, je n'ai pas d'hôpitalisation prévue.", 
+"confidence": 0.307
+},
+{
+"side":"left",
+"start":"00:08:58.981",
+"end":"00:09:01.600", 
+"text":"Après, je croise les doigts, j'espère qu'il n'y aura rien, mais on ne sait jamais.", 
+"confidence": 0.569
+},
+{
+"side":"right",
+"start":"00:09:02.040",
+"end":"00:09:19.482", 
+"text":"Oui, oui, d'accord, je pose cette question parce que j'aimerais bien savoir si vous êtes à un niveau basique, c'est-à-dire à 100% par rapport à votre, en fait, si il y a une hospitalisation ou pas, donc, est-ce que vous êtes à 100% ?", 
+"confidence": 0.757
+},
+{
+"side":"right",
+"start":"00:09:19.482",
+"end":"00:09:21.180", 
+"text":"A quel niveau exactement ?", 
+"confidence": 0.515
+},
+{
+"side":"right",
+"start":"00:09:21.180",
+"end":"00:09:24.900", 
+"text":"Mais vous m'avez dit, vous n'avez pas en tête, en fait, les taux de remboursement pour chaque volet.", 
+"confidence": 0.715
+},
+{
+"side":"left",
+"start":"00:09:26.862",
+"end":"00:09:28.978", 
+"text":"Alors, je vous ai dit, je n'ai pas entendu ce que vous avez dit, excusez-moi.", 
+"confidence": 0.53
+},
+{
+"side":"right",
+"start":"00:09:30.120",
+"end":"00:09:38.480", 
+"text":"Alors, je vous ai dit, en fait, par rapport à l'hospitalisation, d'accord, est-ce que vous avez une idée, vous êtes sur quel niveau de remboursement ?", 
+"confidence": 0.525
+},
+{
+"side":"right",
+"start":"00:09:38.480",
+"end":"00:09:42.700", 
+"text":"Est-ce qu'il s'agit d'un niveau de 100% ?", 
+"confidence": 0.166
+},
+{
+"side":"left",
+"start":"00:09:42.700",
+"end":"00:09:47.820", 
+"text":"Attendez, je ne sais pas, mais si vous voulez, je vais essayer de retrouver le contrat, si j'arrive à, je dois l'avoir.", 
+"confidence": 0.395
+},
+{
+"side":"left",
+"start":"00:09:49.381",
+"end":"00:10:10.700", 
+"text":"Est-ce que je peux le voir sur, est-ce que je peux le voir sur, je crois que, normalement, j'ai un papier de, je ne sais pas si, où est-ce que je l'ai mis, en fait, normalement, il m'avait donné un papier de Mutuel, la carte, je ne sais pas si c'est écrit dessus.", 
+"confidence": 0.23
+},
+{
+"side":"right",
+"start":"00:10:11.601",
+"end":"00:10:18.100", 
+"text":"La carte Mutuel, sur la carte Mutuel, en fait, vous allez trouver toutes les 100%, ce n'est pas en fait les vrais remboursements.", 
+"confidence": 0.933
+},
+{
+"side":"left",
+"start":"00:10:18.640",
+"end":"00:10:19.131", 
+"text":"Oui, c'est marqué 100% partout.", 
+"confidence": 0.05
+},
+{
+"side":"right",
+"start":"00:10:19.861",
+"end":"00:10:24.361", 
+"text":"Oui, oui, partout, et chez tout le monde, en fait, on va marquer 100%.", 
+"confidence": 0.632
+},
+{
+"side":"right",
+"start":"00:10:24.361",
+"end":"00:10:36.860", 
+"text":"Moi, j'ai besoin, en fait, du tableau de garantie, d'accord, je ne sais pas si vous pouvez accéder à votre tableau de garantie, comme ça, vous pouvez voir exactement les remboursements pour chaque volet.", 
+"confidence": 0.462
+},
+{
+"side":"right",
+"start":"00:10:38.141",
+"end":"00:10:40.301", 
+"text":"Est-ce possible maintenant ?", 
+"confidence": 0.391
+},
+{
+"side":"left",
+"start":"00:10:40.301",
+"end":"00:10:46.017", 
+"text":"Alors là, je ne sais pas, je ne sais pas où je peux retrouver ça, est-ce que c'est éventuellement dans mes, non.", 
+"confidence": 0.646
+},
+{
+"side":"right",
+"start":"00:10:49.764",
+"end":"00:10:52.239", 
+"text":"Oui, vous pouvez le trouver ici, alors là.", 
+"confidence": 0.501
+},
+{
+"side":"left",
+"start":"00:10:54.480",
+"end":"00:10:57.597", 
+"text":"Il m'envoie tellement de mail depuis que….", 
+"confidence": 0.156
+},
+{
+"side":"right",
+"start":"00:10:59.093",
+"end":"00:10:59.158", 
+"text":"Oui.", 
+"confidence": 0.049
+},
+{
+"side":"left",
+"start":"00:11:01.280",
+"end":"00:11:03.499", 
+"text":"Ouais, honnêtement, je ne sais pas du tout.", 
+"confidence": 0.277
+},
+{
+"side":"right",
+"start":"00:11:05.461",
+"end":"00:11:18.000", 
+"text":"Non, si vous êtes chez vous, il n'y a pas de soucis, vous pouvez le chercher, et moi, je vous rappelle, dans 10 minutes, dans ces cas-là, ce n'est pas grave, vous pouvez chercher votre tableau de garantie, je reviens vers vous dans 10 minutes.", 
+"confidence": 0.593
+},
+{
+"side":"left",
+"start":"00:11:19.021",
+"end":"00:11:25.300", 
+"text":"Non, le problème, ce n'est pas que je ne veux pas le chercher, c'est que je ne sais même pas où c'est, en fait, je ne sais pas à quoi ça correspond.", 
+"confidence": 0.719
+},
+{
+"side":"right",
+"start":"00:11:28.622",
+"end":"00:11:32.980", 
+"text":"D'accord, d'accord, je vois très bien, en tout cas, ce n'est pas grave, ce n'est pas grave.", 
+"confidence": 0.602
+},
+{
+"side":"right",
+"start":"00:11:33.620",
+"end":"00:11:53.362", 
+"text":"Alors, dites-moi, M. Auchard, alors, on a dit, vous voulez en fait chercher, avoir une idée plutôt sur les prix, si vous allez ajouter votre enfant, et déjà, pour votre mutuel, vous m'avez dit au début de la fête que vous voyez que quand même, en fait, 50 euros, c'est un peu cher, n'est-ce pas ?", 
+"confidence": 0.355
+},
+{
+"side":"left",
+"start":"00:11:53.362",
+"end":"00:11:55.595", 
+"text":"Je ne paye pas 150 euros, c'est à peu près 50 euros que je paye.", 
+"confidence": 0.974
+},
+{
+"side":"right",
+"start":"00:11:56.623",
+"end":"00:11:57.139", 
+"text":"Oui, oui, ça compte.", 
+"confidence": 0.607
+},
+{
+"side":"left",
+"start":"00:11:57.582",
+"end":"00:11:58.692", 
+"text":"Un peu moins de 50, c'est 49 et des brouettes.", 
+"confidence": 0.304
+},
+{
+"side":"right",
+"start":"00:11:59.600",
+"end":"00:12:09.925", 
+"text":"Ah, d'accord, on va dire aux alentours de 50 euros, d'accord, on voit très bien, mais vous voyez que c'est un peu cher, n'est-ce pas ?", 
+"confidence": 0.848
+},
+{
+"side":"left",
+"start":"00:12:09.925",
+"end":"00:12:10.278", 
+"text":"Oui, oui.", 
+"confidence": 0.485
+},
+{
+"side":"right",
+"start":"00:12:11.280",
+"end":"00:12:11.634", 
+"text":"D'accord.", 
+"confidence": 0.347
+},
+{
+"side":"right",
+"start":"00:12:12.240",
+"end":"00:12:32.899", 
+"text":"Sincèrement, M., pour vous dire, en fait, parce que j'étais en train de jeter un coup d'œil sur, en fait, les trucs, ce que vous êtes en train de payer actuellement, c'est vraiment logique, je suppose que vous avez, en fait, le niveau 1, parce que j'ai devant moi déjà les garanties de AISE, je pense que vous êtes sur le niveau 1, d'accord.", 
+"confidence": 0.489
+},
+{
+"side":"right",
+"start":"00:12:35.581",
+"end":"00:13:09.178", 
+"text":"D'accord, donc, pour le prix, vraiment, pour les niveaux 1, je fais tous les mutuels, c'est pratiquement les mêmes tarifs, d'accord, aux alentours de 48, 49 euros, 50 euros, d'accord, à moins que, vous voulez, par exemple, que je renforce pour vous la garantie, d'accord, par exemple, vous êtes actuellement à 100%, je peux renforcer pour vous la garantie, je peux vous passer à 125%, ou bien 150%, si vous voulez, d'accord, je ne sais pas si vous voulez renforcer la garantie, ou bien vous voulez juste garder un niveau basique, hein.", 
+"confidence": 0.744
+},
+{
+"side":"left",
+"start":"00:13:10.661",
+"end":"00:13:14.578", 
+"text":"Bon, je ne vois pas l'intérêt, pour l'instant, moi, je n'ai rien payé à chaque fois, donc…", 
+"confidence": 0.435
+},
+{
+"side":"right",
+"start":"00:13:15.620",
+"end":"00:13:16.280", 
+"text":"D'accord,", 
+"confidence": 0.369
+},
+{
+"side":"left",
+"start":"00:13:16.361",
+"end":"00:13:18.842", 
+"text":"alors,", 
+"confidence": 0.737
+},
+{
+"side":"right",
+"start":"00:13:18.862",
+"end":"00:13:44.020", 
+"text":"d'accord, en tout cas, pour vous donner un petit aperçu sur les prix, en fait, si vous allez ajouter votre enfant l'année prochaine, alors, je vais vous dire, hop, hop, hop, alors, on a dit qu'il va être né en 2025, alors, en fait, si vous allez ajouter votre enfant avec vous l'année prochaine, donc, le prix, ça va être aux alentours de 70 euros, d'accord ?", 
+"confidence": 0.536
+},
+{
+"side":"right",
+"start":"00:13:44.020",
+"end":"00:13:44.550", 
+"text":"D'accord, ouais.", 
+"confidence": 0.26
+},
+{
+"side":"right",
+"start":"00:13:45.180",
+"end":"00:13:49.510", 
+"text":"Ouais, tout à fait, pour un niveau 1 toujours, hein, d'accord ?", 
+"confidence": 0.538
+},
+{
+"side":"right",
+"start":"00:13:49.510",
+"end":"00:13:53.940", 
+"text":"Alors, dans ce cas-là, monsieur, donnez-moi votre nom, si vous permettez, monsieur.", 
+"confidence": 0.376
+},
+{
+"side":"left",
+"start":"00:13:55.520",
+"end":"00:14:00.684", 
+"text":"Ok, tu dois N-K-U-I… N-K-U-I… G-O-U-A.", 
+"confidence": 0.53
+},
+{
+"side":"left",
+"start":"00:14:03.260",
+"end":"00:14:03.631", 
+"text":"Ah, ouais.", 
+"confidence": 0.314
+},
+{
+"side":"right",
+"start":"00:14:04.924",
+"end":"00:14:05.839", 
+"text":"Alors, un instant….", 
+"confidence": 0.202
+},
+{
+"side":"left",
+"start":"00:14:06.862",
+"end":"00:14:14.941", 
+"text":"Quand vous faites les mutuelles pour l'enfant, vous faites… c'est forcément attaché à moi, en fait, c'est ça ?", 
+"confidence": 0.434
+},
+{
+"side":"right",
+"start":"00:14:14.941",
+"end":"00:14:18.220", 
+"text":"Oui, tout à fait, ouais, tout à fait, c'est ce que j'allais vous dire.", 
+"confidence": 0.664
+},
+{
+"side":"right",
+"start":"00:14:18.420",
+"end":"00:14:21.448", 
+"text":"Donc, je vais garder vos coordonnées, si vous permettez.", 
+"confidence": 0.398
+},
+{
+"side":"right",
+"start":"00:14:21.488",
+"end":"00:14:26.580", 
+"text":"Moi, d'ici le mois de janvier, je vais vous recontacter pour voir avec vous, d'accord ?", 
+"confidence": 0.57
+},
+{
+"side":"right",
+"start":"00:14:26.580",
+"end":"00:14:31.549", 
+"text":"Si déjà votre bébé, en fait, il sera avec vous, d'accord ?", 
+"confidence": 0.51
+},
+{
+"side":"right",
+"start":"00:14:31.549",
+"end":"00:14:37.660", 
+"text":"Vous voulez l'ajouter sur votre contrat de mutuelle, donc, je peux le faire pour vous avec plaisir, d'accord ?", 
+"confidence": 0.322
+},
+{
+"side":"right",
+"start":"00:14:37.660",
+"end":"00:14:51.130", 
+"text":"Parce que vous savez déjà, en fait, si c'est la fin d'année, donc, il y a des mutuelles qui proposent, en fait, des… qui font des offres promotionnelles pour la famille, donc, je peux vous proposer une mutuelle conçue spécialement pour la famille, d'accord ?", 
+"confidence": 0.443
+},
+{
+"side":"right",
+"start":"00:14:51.130",
+"end":"00:14:54.337", 
+"text":"Comme vous allez ajouter votre bébé avec vous, d'accord ?", 
+"confidence": 0.913
+},
+{
+"side":"right",
+"start":"00:14:54.337",
+"end":"00:14:55.861", 
+"text":"On fait comme ça ?", 
+"confidence": 0.429
+},
+{
+"side":"left",
+"start":"00:14:55.861",
+"end":"00:14:58.476", 
+"text":"Mais, ce sera toujours avec Aïzio, du coup ?", 
+"confidence": 0.512
+},
+{
+"side":"left",
+"start":"00:14:58.476",
+"end":"00:14:59.120", 
+"text":"Ce sera une autre….", 
+"confidence": 0.673
+},
+{
+"side":"right",
+"start":"00:14:59.901",
+"end":"00:15:03.258", 
+"text":"Non, non, je peux vous proposer une autre chose, d'accord ?", 
+"confidence": 0.489
+},
+{
+"side":"right",
+"start":"00:15:03.258",
+"end":"00:15:03.579", 
+"text":"On n'est pas….", 
+"confidence": 0.366
+},
+{
+"side":"right",
+"start":"00:15:03.820",
+"end":"00:15:05.264", 
+"text":"Non, je demande juste….", 
+"confidence": 0.455
+},
+{
+"side":"left",
+"start":"00:15:05.284",
+"end":"00:15:09.174", 
+"text":"En fait, je demande juste si vous êtes en partenariat avec Aïzio, du coup, ça va être un truc….", 
+"confidence": 0.644
+},
+{
+"side":"left",
+"start":"00:15:09.214",
+"end":"00:15:11.761", 
+"text":"Vous voyez ce que je veux dire ?", 
+"confidence": 0.35
+},
+{
+"side":"left",
+"start":"00:15:11.761",
+"end":"00:15:14.737", 
+"text":"Ou bien, c'est une autre mutuelle complètement différente et….", 
+"confidence": 0.578
+},
+{
+"side":"left",
+"start":"00:15:15.632",
+"end":"00:15:18.000", 
+"text":"Alors… Tout refait, c'est juste pour comprendre….", 
+"confidence": 0.252
+},
+{
+"side":"right",
+"start":"00:15:18.040",
+"end":"00:15:19.482", 
+"text":"Alors, là, si….", 
+"confidence": 0.328
+},
+{
+"side":"right",
+"start":"00:15:19.523",
+"end":"00:15:23.289", 
+"text":"En fait, si vous allez… On va regarder par rapport au prix.", 
+"confidence": 0.602
+},
+{
+"side":"right",
+"start":"00:15:23.329",
+"end":"00:15:28.738", 
+"text":"On va choisir, en fait, la mutuelle qui nous semble vraiment qu'elle est correcte au niveau de la cotisation ou bien les garanties.", 
+"confidence": 0.826
+},
+{
+"side":"right",
+"start":"00:15:28.798",
+"end":"00:15:29.840", 
+"text":"aussi, d'accord ?", 
+"confidence": 0.723
+},
+{
+"side":"right",
+"start":"00:15:29.840",
+"end":"00:15:37.060", 
+"text":"Donc, si on trouve qu'Aïzio, elle est la meilleure pour vous, côté cotisation et garantie, on va garder, on va la garder juste, on va ajouter votre enfant.", 
+"confidence": 0.386
+},
+{
+"side":"right",
+"start":"00:15:37.680",
+"end":"00:15:49.280", 
+"text":"Sinon, dans le cas contraire, si je trouve autre chose meilleure par rapport au prix et, comme je vous ai dit, par rapport aussi aux garanties, je peux, en fait, vous changer l'habitude complètement, d'accord ?", 
+"confidence": 0.361
+},
+{
+"side":"left",
+"start":"00:15:49.280",
+"end":"00:15:49.570", 
+"text":"D'accord.", 
+"confidence": 0.255
+},
+{
+"side":"left",
+"start":"00:15:50.460",
+"end":"00:15:51.441", 
+"text":"D'accord ?", 
+"confidence": 0.37
+},
+{
+"side":"left",
+"start":"00:15:51.441",
+"end":"00:15:51.503", 
+"text":"Oui.", 
+"confidence": 0.031
+},
+{
+"side":"left",
+"start":"00:15:52.321",
+"end":"00:15:53.168", 
+"text":"Ok.", 
+"confidence": 0.806
+},
+{
+"side":"left",
+"start":"00:15:53.208",
+"end":"00:15:53.974", 
+"text":"Ok, ça marche.", 
+"confidence": 0.69
+},
+{
+"side":"left",
+"start":"00:15:53.994",
+"end":"00:15:54.377", 
+"text":"Bon, je….", 
+"confidence": 0.307
+},
+{
+"side":"right",
+"start":"00:15:55.301",
+"end":"00:15:58.670", 
+"text":"Je vais, en tout cas, monsieur, vous envoyer un SMS.", 
+"confidence": 0.714
+},
+{
+"side":"right",
+"start":"00:15:58.690",
+"end":"00:16:00.434", 
+"text":"Je vais vous laisser nos coordonnées.", 
+"confidence": 0.937
+},
+{
+"side":"right",
+"start":"00:16:00.474",
+"end":"00:16:02.740", 
+"text":"La part, vous pouvez, à tout moment, nous contacter.", 
+"confidence": 0.879
+},
+{
+"side":"right",
+"start":"00:16:03.701",
+"end":"00:16:08.580", 
+"text":"Si même, en fait, vous connaissez déjà des personnes qui souhaitent faire des comparatrices, donc n'hésitez pas.", 
+"confidence": 0.362
+},
+{
+"side":"right",
+"start":"00:16:09.000",
+"end":"00:16:15.101", 
+"text":"Et moi, de mon côté, comme je vous ai promis, je vais vous contacter, on va dire, au mois de janvier, après les fêtes et tout, d'accord ?", 
+"confidence": 0.54
+},
+{
+"side":"right",
+"start":"00:16:15.101",
+"end":"00:16:20.362", 
+"text":"Et je vais voir avec vous et on va faire les comparatrices ensemble, d'accord ?", 
+"confidence": 0.624
+},
+{
+"side":"left",
+"start":"00:16:20.362",
+"end":"00:16:31.540", 
+"text":"Plutôt même pour être sûr, ce sera même mieux début février parce que l'accouchement est prévu pour le 28, donc il y a des chances qu'elle accouche certainement vers mi-janvier et tout.", 
+"confidence": 0.887
+},
+{
+"side":"left",
+"start":"00:16:32.140",
+"end":"00:16:32.300", 
+"text":"D'accord.", 
+"confidence": 0.005
+},
+{
+"side":"left",
+"start":"00:16:32.300",
+"end":"00:16:38.460", 
+"text":"D'ici là, je vais en parler avec elle pour savoir si Samuel Chiel… Parce qu'elle vit en Belgique, en fait, la mère.", 
+"confidence": 0.53
+},
+{
+"side":"left",
+"start":"00:16:39.160",
+"end":"00:16:39.300", 
+"text":"Ah oui.", 
+"confidence": 0.01
+},
+{
+"side":"left",
+"start":"00:16:39.320",
+"end":"00:16:43.620", 
+"text":"Pour savoir si Samuel Chiel prend en considération quand l'enfant est en France ou pas.", 
+"confidence": 0.183
+},
+{
+"side":"left",
+"start":"00:16:44.721",
+"end":"00:16:51.940", 
+"text":"C'est juste que moi, je me suis juste posé la question, en fait, vu que notre enfant, en fait, pour l'instant, en tout cas, il va être entre la Belgique et la France.", 
+"confidence": 0.299
+},
+{
+"side":"left",
+"start":"00:16:52.120",
+"end":"00:16:58.640", 
+"text":"Je me suis dit, je ne sais pas comment est-ce que s'il arrive ici, en fait, et qu'il y a un problème, qu'il soit couvert.", 
+"confidence": 0.448
+},
+{
+"side":"right",
+"start":"00:16:59.745",
+"end":"00:17:00.356", 
+"text":"Ah oui, oui.", 
+"confidence": 0.603
+},
+{
+"side":"left",
+"start":"00:17:01.647",
+"end":"00:17:02.040", 
+"text":"C'est l'instant.", 
+"confidence": 0.149
+},
+{
+"side":"right",
+"start":"00:17:02.040",
+"end":"00:17:02.253", 
+"text":"C'est vrai.", 
+"confidence": 0.111
+},
+{
+"side":"right",
+"start":"00:17:03.626",
+"end":"00:17:03.996", 
+"text":"Oui, c'est vrai.", 
+"confidence": 0.36
+},
+{
+"side":"right",
+"start":"00:17:04.480",
+"end":"00:17:04.652", 
+"text":"D'accord.", 
+"confidence": 0.071
+},
+{
+"side":"right",
+"start":"00:17:04.900",
+"end":"00:17:09.460", 
+"text":"Alors, dans ce cas-là, je vais vous contacter, on va dire, début février, d'accord ?", 
+"confidence": 0.335
+},
+{
+"side":"right",
+"start":"00:17:09.460",
+"end":"00:17:09.656", 
+"text":"Voilà.", 
+"confidence": 0.222
+},
+{
+"side":"right",
+"start":"00:17:10.319",
+"end":"00:17:11.398", 
+"text":"Voilà, on fait comme ça, là.", 
+"confidence": 0.262
+},
+{
+"side":"right",
+"start":"00:17:11.981",
+"end":"00:17:13.679", 
+"text":"Je vous remercie pour votre temps accordé.", 
+"confidence": 0.976
+},
+{
+"side":"right",
+"start":"00:17:14.560",
+"end":"00:17:16.220", 
+"text":"Et voilà, bonne fête des mamans.", 
+"confidence": 0.558
+},
+{
+"side":"right",
+"start":"00:17:17.240",
+"end":"00:17:17.569", 
+"text":"Merci à vous.", 
+"confidence": 0.191
+},
+{
+"side":"right",
+"start":"00:17:18.480",
+"end":"00:17:18.915", 
+"text":"Bonne fête à vous.", 
+"confidence": 0.11
+},
+{
+"side":"right",
+"start":"00:17:19.079",
+"end":"00:17:19.420", 
+"text":"Bonne journée.", 
+"confidence": 0.028
+},
+{
+"side":"right",
+"start":"00:17:19.780",
+"end":"00:17:19.909", 
+"text":"Merci.", 
+"confidence": 0.125
+},
+{
+"side":"right",
+"start":"00:17:20.080",
+"end":"00:17:20.334", 
+"text":"Au revoir.", 
+"confidence": 0.255
+},
+]
